@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@wise-old-man/utils": "^4.0.8",
+    "dotenv": "^17.2.3"
+  }
+}
