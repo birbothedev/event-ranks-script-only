@@ -1,12 +1,12 @@
 import { readFromFile, writeToFile } from "../json-stuff/Output.js";
 
-export async function getParsedDataFromFile(filename){
-    const data = await readFromFile(filename);
+export async function getParsedDataFromFile(TEMP_DIR, filename){
+    const data = await readFromFile(TEMP_DIR, filename);
     return data;
 }
 
-async function getEndValuePerSkill(filename){
-    const fullData = await getParsedDataFromFile(filename);
+async function getEndValuePerSkill(TEMP_DIR, filename){
+    const fullData = await getParsedDataFromFile(TEMP_DIR, filename);
     
     const playerSkillData = fullData.map(player => ({
         playerName: player.playerName,
@@ -21,8 +21,8 @@ async function getEndValuePerSkill(filename){
     return playerSkillData;
 }
 
-async function getEndValuePerBossKC(filename){
-    const fullData = await getParsedDataFromFile(filename);
+async function getEndValuePerBossKC(TEMP_DIR, filename){
+    const fullData = await getParsedDataFromFile(TEMP_DIR, filename);
 
     const playerBossData = fullData.map(player => ({
         playerName: player.playerName,
@@ -37,8 +37,8 @@ async function getEndValuePerBossKC(filename){
     return playerBossData;
 }
 
-async function getPlayerEfficiency(filename){
-    const fullData = await getParsedDataFromFile(filename);
+async function getPlayerEfficiency(TEMP_DIR, filename){
+    const fullData = await getParsedDataFromFile(TEMP_DIR, filename);
 
     const playerEfficiencyData = fullData.map(player => ({
         playerName: player.playerName,
@@ -56,9 +56,9 @@ async function getPlayerEfficiency(filename){
 // TODO: create function for getting player account type (main or iron)
 
 export async function combineDataAndWriteToFile(filename, exportfilename, TEMP_DIR){
-    const playerSkillData = await getEndValuePerSkill(filename);
-    const playerBossData = await getEndValuePerBossKC(filename);
-    const playerEfficiencyData = await getPlayerEfficiency(filename);
+    const playerSkillData = await getEndValuePerSkill(TEMP_DIR, filename);
+    const playerBossData = await getEndValuePerBossKC(TEMP_DIR, filename);
+    const playerEfficiencyData = await getPlayerEfficiency(TEMP_DIR, filename);
 
     const allDataMerged = playerSkillData.map(skillItem => {
         const playerName = skillItem.playerName;

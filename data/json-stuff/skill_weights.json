@@ -1,0 +1,1842 @@
+[
+  {
+    "playerName": "pvm items",
+    "data": {
+      "bossWeights": {
+        "t1": 2,
+        "t2": 4.476190476190476,
+        "t3": 7.125,
+        "t4": 9.333333333333334,
+        "t5": 5,
+        "toa": 15,
+        "tob": 12,
+        "cox": 15
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 5
+      },
+      "efficiency": {
+        "ehp": 5,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "very niceuuu",
+    "data": {
+      "bossWeights": {
+        "t1": 1.75,
+        "t2": 3.3333333333333335,
+        "t3": 1.6875,
+        "t4": 5.333333333333333,
+        "t5": 0,
+        "toa": 9,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.466666666666667
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "ld cyanne",
+    "data": {
+      "bossWeights": {
+        "t1": 1,
+        "t2": 1.0476190476190477,
+        "t3": 3,
+        "t4": 0,
+        "t5": 0,
+        "toa": 9,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8.333333333333334,
+        "weightedSkilling": 3.8
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "dazandrah",
+    "data": {
+      "bossWeights": {
+        "t1": 1.8125,
+        "t2": 2.2857142857142856,
+        "t3": 3.375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 9,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 8.666666666666666,
+        "weightedSkilling": 4.266666666666667
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "lkkle",
+    "data": {
+      "bossWeights": {
+        "t1": 2.1875,
+        "t2": 4.9523809523809526,
+        "t3": 6.5625,
+        "t4": 5.333333333333333,
+        "t5": 2.5,
+        "toa": 9,
+        "tob": 12,
+        "cox": 15
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 5
+      },
+      "efficiency": {
+        "ehp": 4,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "ironspiritim",
+    "data": {
+      "bossWeights": {
+        "t1": 1.5,
+        "t2": 3.238095238095238,
+        "t3": 3.5625,
+        "t4": 1.3333333333333333,
+        "t5": 0,
+        "toa": 9,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9,
+        "weightedSkilling": 4.066666666666666
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "gi mindblow",
+    "data": {
+      "bossWeights": {
+        "t1": 1.75,
+        "t2": 4.476190476190476,
+        "t3": 4.875,
+        "t4": 8,
+        "t5": 0,
+        "toa": 12,
+        "tob": 6,
+        "cox": 9
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.133333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "1tsyog",
+    "data": {
+      "bossWeights": {
+        "t1": 0.8125,
+        "t2": 0.8571428571428571,
+        "t3": 2.8125,
+        "t4": 0,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 3.2
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "typical jon",
+    "data": {
+      "bossWeights": {
+        "t1": 1.9375,
+        "t2": 5.333333333333333,
+        "t3": 8.4375,
+        "t4": 10.666666666666666,
+        "t5": 5,
+        "toa": 12,
+        "tob": 6,
+        "cox": 9
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 4.8
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 4
+      }
+    }
+  },
+  {
+    "playerName": "ayeeecreg",
+    "data": {
+      "bossWeights": {
+        "t1": 1.875,
+        "t2": 4.095238095238095,
+        "t3": 3,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 9,
+        "tob": 0,
+        "cox": 9
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 3.933333333333333
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "ble4chy",
+    "data": {
+      "bossWeights": {
+        "t1": 0.8125,
+        "t2": 2.5714285714285716,
+        "t3": 3.1875,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9,
+        "weightedSkilling": 4.066666666666666
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "im imu",
+    "data": {
+      "bossWeights": {
+        "t1": 1.875,
+        "t2": 4.666666666666667,
+        "t3": 3.9375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.133333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "wi sh",
+    "data": {
+      "bossWeights": {
+        "t1": 0.6875,
+        "t2": 0.7619047619047619,
+        "t3": 1.5,
+        "t4": 2.6666666666666665,
+        "t5": 2.5,
+        "toa": 9,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 8.666666666666666,
+        "weightedSkilling": 4
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "abtw",
+    "data": {
+      "bossWeights": {
+        "t1": 1.9375,
+        "t2": 4.380952380952381,
+        "t3": 7.125,
+        "t4": 13.333333333333334,
+        "t5": 5,
+        "toa": 12,
+        "tob": 15,
+        "cox": 15
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 5
+      },
+      "efficiency": {
+        "ehp": 4,
+        "ehb": 4
+      }
+    }
+  },
+  {
+    "playerName": "veek5",
+    "data": {
+      "bossWeights": {
+        "t1": 1.4375,
+        "t2": 2.6666666666666665,
+        "t3": 3.75,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.6
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "filofteia",
+    "data": {
+      "bossWeights": {
+        "t1": 1.8125,
+        "t2": 4.285714285714286,
+        "t3": 6.5625,
+        "t4": 9.333333333333334,
+        "t5": 5,
+        "toa": 15,
+        "tob": 15,
+        "cox": 18
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 5
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 4
+      }
+    }
+  },
+  {
+    "playerName": "major mahi",
+    "data": {
+      "bossWeights": {
+        "t1": 0.75,
+        "t2": 1.2380952380952381,
+        "t3": 1.6875,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 9,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 8.666666666666666,
+        "weightedSkilling": 3.8
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "d ke",
+    "data": {
+      "bossWeights": {
+        "t1": 0.6875,
+        "t2": 0.9523809523809523,
+        "t3": 0.5625,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 3.8
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "diggydogsp",
+    "data": {
+      "bossWeights": {
+        "t1": 1.625,
+        "t2": 3.142857142857143,
+        "t3": 4.6875,
+        "t4": 4,
+        "t5": 0,
+        "toa": 12,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.066666666666666
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "seadogenzo",
+    "data": {
+      "bossWeights": {
+        "t1": 1.125,
+        "t2": 3.142857142857143,
+        "t3": 4.5,
+        "t4": 1.3333333333333333,
+        "t5": 2.5,
+        "toa": 9,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.2
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "mpagas",
+    "data": {
+      "bossWeights": {
+        "t1": 1.0625,
+        "t2": 3.5238095238095237,
+        "t3": 4.3125,
+        "t4": 4,
+        "t5": 0,
+        "toa": 9,
+        "tob": 3,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.6
+      },
+      "efficiency": {
+        "ehp": 4,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "weedily",
+    "data": {
+      "bossWeights": {
+        "t1": 1.0625,
+        "t2": 2.0952380952380953,
+        "t3": 2.8125,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 8.333333333333334,
+        "weightedSkilling": 3.6666666666666665
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "the mail man",
+    "data": {
+      "bossWeights": {
+        "t1": 1.9375,
+        "t2": 3.142857142857143,
+        "t3": 3.75,
+        "t4": 4,
+        "t5": 0,
+        "toa": 12,
+        "tob": 3,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.533333333333333
+      },
+      "efficiency": {
+        "ehp": 4,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "f r ee l o",
+    "data": {
+      "bossWeights": {
+        "t1": 0.4375,
+        "t2": 0.19047619047619047,
+        "t3": 0.375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 6,
+        "weightedSkilling": 2.2
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "blaatina",
+    "data": {
+      "bossWeights": {
+        "t1": 1.3125,
+        "t2": 1.7142857142857142,
+        "t3": 2.0625,
+        "t4": 1.3333333333333333,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 3.7333333333333334
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "effort low",
+    "data": {
+      "bossWeights": {
+        "t1": 1.5,
+        "t2": 4.095238095238095,
+        "t3": 5.625,
+        "t4": 9.333333333333334,
+        "t5": 10,
+        "toa": 12,
+        "tob": 12,
+        "cox": 12
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 3.933333333333333
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "m imik",
+    "data": {
+      "bossWeights": {
+        "t1": 2.3125,
+        "t2": 5.142857142857143,
+        "t3": 6.1875,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 9,
+        "tob": 3,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 5
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "leluka james",
+    "data": {
+      "bossWeights": {
+        "t1": 0.625,
+        "t2": 2,
+        "t3": 2.4375,
+        "t4": 0,
+        "t5": 2.5,
+        "toa": 9,
+        "tob": 3,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 3.7333333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "king drater",
+    "data": {
+      "bossWeights": {
+        "t1": 0.875,
+        "t2": 0.47619047619047616,
+        "t3": 0.375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7,
+        "weightedSkilling": 3.1333333333333333
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "astrovial",
+    "data": {
+      "bossWeights": {
+        "t1": 1.125,
+        "t2": 2.380952380952381,
+        "t3": 3.75,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 9,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 4.133333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "ron redberry",
+    "data": {
+      "bossWeights": {
+        "t1": 1.375,
+        "t2": 2.761904761904762,
+        "t3": 3.9375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 12,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 4.133333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "im vicona",
+    "data": {
+      "bossWeights": {
+        "t1": 1.375,
+        "t2": 1.7142857142857142,
+        "t3": 2.0625,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 3.8666666666666667
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "deposit 0",
+    "data": {
+      "bossWeights": {
+        "t1": 0.6875,
+        "t2": 0.19047619047619047,
+        "t3": 0,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 6.333333333333333,
+        "weightedSkilling": 2.933333333333333
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "rosebalt",
+    "data": {
+      "bossWeights": {
+        "t1": 1.75,
+        "t2": 3.5238095238095237,
+        "t3": 3.5625,
+        "t4": 4,
+        "t5": 0,
+        "toa": 12,
+        "tob": 3,
+        "cox": 9
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 4.066666666666666
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "baby torchic",
+    "data": {
+      "bossWeights": {
+        "t1": 1.25,
+        "t2": 2.2857142857142856,
+        "t3": 2.625,
+        "t4": 4,
+        "t5": 0,
+        "toa": 9,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 8.333333333333334,
+        "weightedSkilling": 3.6666666666666665
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "madmike887",
+    "data": {
+      "bossWeights": {
+        "t1": 1.625,
+        "t2": 2.9523809523809526,
+        "t3": 2.0625,
+        "t4": 0,
+        "t5": 0,
+        "toa": 12,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 8.666666666666666,
+        "weightedSkilling": 3.6666666666666665
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "gfe zanothe",
+    "data": {
+      "bossWeights": {
+        "t1": 1.5,
+        "t2": 3.8095238095238093,
+        "t3": 5.4375,
+        "t4": 6.666666666666667,
+        "t5": 2.5,
+        "toa": 12,
+        "tob": 3,
+        "cox": 12
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.333333333333333
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "varrock h4rd",
+    "data": {
+      "bossWeights": {
+        "t1": 0.8125,
+        "t2": 1.1428571428571428,
+        "t3": 0.375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7.333333333333333,
+        "weightedSkilling": 3.466666666666667
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "nerdfighter",
+    "data": {
+      "bossWeights": {
+        "t1": 0.9375,
+        "t2": 1.8095238095238095,
+        "t3": 1.125,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 3.466666666666667
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "ribbited",
+    "data": {
+      "bossWeights": {
+        "t1": 1.25,
+        "t2": 2.0952380952380953,
+        "t3": 2.625,
+        "t4": 0,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 8.666666666666666,
+        "weightedSkilling": 3.8666666666666667
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "zpereghost",
+    "data": {
+      "bossWeights": {
+        "t1": 0.625,
+        "t2": 1.3333333333333333,
+        "t3": 0.9375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 12,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7.333333333333333,
+        "weightedSkilling": 3.4
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "agent clunk",
+    "data": {
+      "bossWeights": {
+        "t1": 2,
+        "t2": 4.857142857142857,
+        "t3": 5.0625,
+        "t4": 0,
+        "t5": 2.5,
+        "toa": 9,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 4.266666666666667
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "positiviteit",
+    "data": {
+      "bossWeights": {
+        "t1": 1.1875,
+        "t2": 2.4761904761904763,
+        "t3": 2.25,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 3.3333333333333335
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "notyourironn",
+    "data": {
+      "bossWeights": {
+        "t1": 0.5625,
+        "t2": 0.5714285714285714,
+        "t3": 1.125,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7.333333333333333,
+        "weightedSkilling": 3.6
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "oldnullifier",
+    "data": {
+      "bossWeights": {
+        "t1": 1.125,
+        "t2": 2.761904761904762,
+        "t3": 3.9375,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 9,
+        "tob": 3,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 3.8
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "kiwilychee",
+    "data": {
+      "bossWeights": {
+        "t1": 0.6875,
+        "t2": 0.8571428571428571,
+        "t3": 0.5625,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7.333333333333333,
+        "weightedSkilling": 3.533333333333333
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "baby jolteon",
+    "data": {
+      "bossWeights": {
+        "t1": 0.875,
+        "t2": 1.3333333333333333,
+        "t3": 2.25,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 8.333333333333334,
+        "weightedSkilling": 4
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "no hick zone",
+    "data": {
+      "bossWeights": {
+        "t1": 1.25,
+        "t2": 2.4761904761904763,
+        "t3": 3.5625,
+        "t4": 1.3333333333333333,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9,
+        "weightedSkilling": 3.6666666666666665
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "ethamiel",
+    "data": {
+      "bossWeights": {
+        "t1": 0.5,
+        "t2": 0.7619047619047619,
+        "t3": 0.75,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7,
+        "weightedSkilling": 2.8666666666666667
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "martyrs",
+    "data": {
+      "bossWeights": {
+        "t1": 1.9375,
+        "t2": 4.571428571428571,
+        "t3": 5.8125,
+        "t4": 4,
+        "t5": 0,
+        "toa": 12,
+        "tob": 9,
+        "cox": 15
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 5
+      },
+      "efficiency": {
+        "ehp": 4,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "thefeodyssey",
+    "data": {
+      "bossWeights": {
+        "t1": 2.5,
+        "t2": 6.761904761904762,
+        "t3": 9.1875,
+        "t4": 12,
+        "t5": 5,
+        "toa": 12,
+        "tob": 12,
+        "cox": 9
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 5
+      },
+      "efficiency": {
+        "ehp": 5,
+        "ehb": 4
+      }
+    }
+  },
+  {
+    "playerName": "hcknchnkeres",
+    "data": {
+      "bossWeights": {
+        "t1": 1.25,
+        "t2": 1.619047619047619,
+        "t3": 0.5625,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8.666666666666666,
+        "weightedSkilling": 4.2
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "buchubuster",
+    "data": {
+      "bossWeights": {
+        "t1": 0.5625,
+        "t2": 1.5238095238095237,
+        "t3": 2.625,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 3.1333333333333333
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "c logging",
+    "data": {
+      "bossWeights": {
+        "t1": 0.0625,
+        "t2": 0.19047619047619047,
+        "t3": 0.375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 4.666666666666667,
+        "weightedSkilling": 2.6666666666666665
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "arrogancy",
+    "data": {
+      "bossWeights": {
+        "t1": 0.875,
+        "t2": 1.2380952380952381,
+        "t3": 1.875,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 9,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 3.1333333333333333
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "olmanvayren",
+    "data": {
+      "bossWeights": {
+        "t1": 1.75,
+        "t2": 3.4285714285714284,
+        "t3": 3.375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 4.066666666666666
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "ld handa",
+    "data": {
+      "bossWeights": {
+        "t1": 0.5,
+        "t2": 0.8571428571428571,
+        "t3": 0.9375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7.333333333333333,
+        "weightedSkilling": 3.2
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "splintertwin",
+    "data": {
+      "bossWeights": {
+        "t1": 1.4375,
+        "t2": 1.8095238095238095,
+        "t3": 2.25,
+        "t4": 0,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8.666666666666666,
+        "weightedSkilling": 3.8666666666666667
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "booty basil",
+    "data": {
+      "bossWeights": {
+        "t1": 1.375,
+        "t2": 2.857142857142857,
+        "t3": 4.5,
+        "t4": 5.333333333333333,
+        "t5": 0,
+        "toa": 9,
+        "tob": 3,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 4.133333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "ajcaw",
+    "data": {
+      "bossWeights": {
+        "t1": 1.375,
+        "t2": 1.2380952380952381,
+        "t3": 0.9375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 4.133333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "lonelyluni",
+    "data": {
+      "bossWeights": {
+        "t1": 1.1875,
+        "t2": 1.2380952380952381,
+        "t3": 1.3125,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 3.8
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "ezsnowball",
+    "data": {
+      "bossWeights": {
+        "t1": 0.6875,
+        "t2": 2.9523809523809526,
+        "t3": 3.375,
+        "t4": 0,
+        "t5": 2.5,
+        "toa": 12,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 4.2
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "gimtunabarge",
+    "data": {
+      "bossWeights": {
+        "t1": 0.3125,
+        "t2": 0.8571428571428571,
+        "t3": 0.9375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7.333333333333333,
+        "weightedSkilling": 2.8666666666666667
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "ivyton",
+    "data": {
+      "bossWeights": {
+        "t1": 0.9375,
+        "t2": 2.2857142857142856,
+        "t3": 3.1875,
+        "t4": 1.3333333333333333,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9,
+        "weightedSkilling": 3.6
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "aj mvp",
+    "data": {
+      "bossWeights": {
+        "t1": 1.0625,
+        "t2": 2.6666666666666665,
+        "t3": 3.1875,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 6,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 3.2
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "rocket ship",
+    "data": {
+      "bossWeights": {
+        "t1": 1.0625,
+        "t2": 3.142857142857143,
+        "t3": 5.0625,
+        "t4": 5.333333333333333,
+        "t5": 2.5,
+        "toa": 9,
+        "tob": 3,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9,
+        "weightedSkilling": 4.066666666666666
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "kribbed",
+    "data": {
+      "bossWeights": {
+        "t1": 0.3125,
+        "t2": 0.09523809523809523,
+        "t3": 0.5625,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7.333333333333333,
+        "weightedSkilling": 3.3333333333333335
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "iron zyc",
+    "data": {
+      "bossWeights": {
+        "t1": 1.4375,
+        "t2": 1.2380952380952381,
+        "t3": 0.9375,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 3.7333333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "drew p",
+    "data": {
+      "bossWeights": {
+        "t1": 1.6875,
+        "t2": 3.5238095238095237,
+        "t3": 4.125,
+        "t4": 2.6666666666666665,
+        "t5": 0,
+        "toa": 9,
+        "tob": 6,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.333333333333334,
+        "weightedSkilling": 4.333333333333333
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "mutagens",
+    "data": {
+      "bossWeights": {
+        "t1": 1.6875,
+        "t2": 4.9523809523809526,
+        "t3": 8.25,
+        "t4": 10.666666666666666,
+        "t5": 2.5,
+        "toa": 12,
+        "tob": 3,
+        "cox": 15
+      },
+      "skills": {
+        "weightedCombats": 10,
+        "weightedSkilling": 5
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "felchie",
+    "data": {
+      "bossWeights": {
+        "t1": 1.5625,
+        "t2": 3.5238095238095237,
+        "t3": 3.1875,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.933333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "gimp tissue",
+    "data": {
+      "bossWeights": {
+        "t1": 1.5625,
+        "t2": 2.6666666666666665,
+        "t3": 3.375,
+        "t4": 1.3333333333333333,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 8.666666666666666,
+        "weightedSkilling": 4.133333333333334
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "jenea369",
+    "data": {
+      "bossWeights": {
+        "t1": 0.25,
+        "t2": 0,
+        "t3": 0,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 4.333333333333333,
+        "weightedSkilling": 2
+      },
+      "efficiency": {
+        "ehp": 1,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "throat hug",
+    "data": {
+      "bossWeights": {
+        "t1": 1.3125,
+        "t2": 2.6666666666666665,
+        "t3": 3.1875,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.6
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "r u n i c",
+    "data": {
+      "bossWeights": {
+        "t1": 1.125,
+        "t2": 3.0476190476190474,
+        "t3": 5.4375,
+        "t4": 4,
+        "t5": 2.5,
+        "toa": 12,
+        "tob": 3,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.4
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "mitochondiva",
+    "data": {
+      "bossWeights": {
+        "t1": 1.4375,
+        "t2": 3.9047619047619047,
+        "t3": 3.75,
+        "t4": 1.3333333333333333,
+        "t5": 0,
+        "toa": 12,
+        "tob": 6,
+        "cox": 9
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.066666666666666
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 2
+      }
+    }
+  },
+  {
+    "playerName": "onlysub",
+    "data": {
+      "bossWeights": {
+        "t1": 0.9375,
+        "t2": 0.7619047619047619,
+        "t3": 2.0625,
+        "t4": 0,
+        "t5": 0,
+        "toa": 6,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 8,
+        "weightedSkilling": 3.3333333333333335
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "iron pyke",
+    "data": {
+      "bossWeights": {
+        "t1": 1.8125,
+        "t2": 3.238095238095238,
+        "t3": 4.875,
+        "t4": 4,
+        "t5": 0,
+        "toa": 12,
+        "tob": 0,
+        "cox": 6
+      },
+      "skills": {
+        "weightedCombats": 9.666666666666666,
+        "weightedSkilling": 4.8
+      },
+      "efficiency": {
+        "ehp": 3,
+        "ehb": 3
+      }
+    }
+  },
+  {
+    "playerName": "pbyr",
+    "data": {
+      "bossWeights": {
+        "t1": 0.1875,
+        "t2": 0.2857142857142857,
+        "t3": 0,
+        "t4": 0,
+        "t5": 0,
+        "toa": 0,
+        "tob": 0,
+        "cox": 3
+      },
+      "skills": {
+        "weightedCombats": 4.666666666666667,
+        "weightedSkilling": 1.7333333333333334
+      },
+      "efficiency": {
+        "ehp": 1,
+        "ehb": 1
+      }
+    }
+  },
+  {
+    "playerName": "pappy sucker",
+    "data": {
+      "bossWeights": {
+        "t1": 0.3125,
+        "t2": 0.6666666666666666,
+        "t3": 1.6875,
+        "t4": 0,
+        "t5": 0,
+        "toa": 3,
+        "tob": 0,
+        "cox": 0
+      },
+      "skills": {
+        "weightedCombats": 7.666666666666667,
+        "weightedSkilling": 3.2666666666666666
+      },
+      "efficiency": {
+        "ehp": 2,
+        "ehb": 1
+      }
+    }
+  }
+]

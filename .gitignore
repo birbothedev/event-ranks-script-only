@@ -4,3 +4,7 @@
 
 # Dependency directories
 node_modules/
+
+# data jsons
+cachefile.json
+raw_data.json

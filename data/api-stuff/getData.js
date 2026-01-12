@@ -32,9 +32,11 @@ async function getPlayerAccountType(playerName){
     return details.type; 
 }
 
-async function getPlayerInfoFromCompetition(compID, refresh = false) {
+async function getPlayerInfoFromCompetition(compID, refresh = false, TEMP_DIR) {
+    const cacheFileName = 'cachefile';
+
     if (!refresh) {
-        const cached = await readFromFile('cachefile');
+        const cached = await readFromFile(TEMP_DIR, cacheFileName);
         if (cached && cached.length) {
             console.log("✅ Using cached player data.");
             return cached;
@@ -45,7 +47,10 @@ async function getPlayerInfoFromCompetition(compID, refresh = false) {
     const compData = await getCompetition(compID);
 
     const players = [];
+    let index = 0;
+    const length = compData.participations.length;
     for (const p of compData.participations) {
+        index++;
         try {
             const accountType = await getPlayerAccountType(p.player.username);
             players.push({
@@ -54,7 +59,7 @@ async function getPlayerInfoFromCompetition(compID, refresh = false) {
                 playerDisplayName: p.player.displayName,
                 accountType
             });
-            console.log(`✅ Added ${p.player.username}`);
+            console.log(`✅ Added ${p.player.username} (${index}/${length})`);
         } catch (err) {
             console.error(`❌ Error fetching account type for ${p.player.username}:`, err.message || err);
         }
@@ -62,7 +67,7 @@ async function getPlayerInfoFromCompetition(compID, refresh = false) {
     }
 
     console.log("💾 Writing cache data...");
-    await writeToFile(players, 'cachefile');
+    await writeToFile(players, 'cachefile', TEMP_DIR);
     console.log("✅ Cache data written.");
 
     return players;
@@ -70,7 +75,7 @@ async function getPlayerInfoFromCompetition(compID, refresh = false) {
 
 
 export async function getPlayerGainsFromPeriod(compID, exportfilename, TEMP_DIR){
-    const players = await getPlayerInfoFromCompetition(compID, true);
+    const players = await getPlayerInfoFromCompetition(compID, true, TEMP_DIR);
     const dates = await getCompetitionDates(compID);
 
     const startDate =  new Date(dates.startDate).toISOString();
@@ -119,7 +124,7 @@ export async function getPlayerGainsFromPeriod(compID, exportfilename, TEMP_DIR)
     }
 
     await writeToFile(playerDetails, exportfilename, TEMP_DIR);
-    console.log(`fetched gains for ${playerDetails.length} players. data saved to competition-data.json.`);
+    console.log(`fetched gains for ${playerDetails.length} players. data saved to ${TEMP_DIR}/${exportfilename}`);
 
     return playerDetails;
 }

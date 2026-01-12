@@ -28,8 +28,8 @@ const rankOrder = {
     'Rank 6': 6
 };
 
-async function calculateTotalPointValueFromWeights(filename){
-    const weightedPlayerData = await readFromFile(filename);
+async function calculateTotalPointValueFromWeights(TEMP_DIR, filename){
+    const weightedPlayerData = await readFromFile(TEMP_DIR, filename);
 
     const results = [];
 
@@ -59,7 +59,7 @@ async function calculateTotalPointValueFromWeights(filename){
 }   
 
 export async function rankAllPlayers(filename, exportfilename, TEMP_DIR){
-    const playerPoints = await calculateTotalPointValueFromWeights(filename);
+    const playerPoints = await calculateTotalPointValueFromWeights(TEMP_DIR, filename);
     const ranks = {};
 
     for (const playerData of playerPoints) {

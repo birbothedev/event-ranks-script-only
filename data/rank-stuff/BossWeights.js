@@ -85,8 +85,8 @@ function weighBossesByType(bossType, pointMultiplier){
     return averagedBossPointsValue;
 }
 
-export async function applyWeightsToPlayerBossCount(filename){
-    const playerData = await readFromFile(filename);
+export async function applyWeightsToPlayerBossCount(TEMP_DIR, filename){
+    const playerData = await readFromFile(TEMP_DIR, filename);
 
     const playerBosses = playerData.map(player => ({
         playerName: player.playerName,
