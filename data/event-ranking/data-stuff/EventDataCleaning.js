@@ -8,6 +8,7 @@ export async function getParsedDataFromFile(TEMP_DIR, filename){
 async function getEndValuePerSkill(TEMP_DIR, filename){
     const fullData = await getParsedDataFromFile(TEMP_DIR, filename);
     
+    // get end xp value per skill per player
     const playerSkillData = fullData.map(player => ({
         playerName: player.playerName,
         skills: Object.fromEntries(
@@ -24,6 +25,7 @@ async function getEndValuePerSkill(TEMP_DIR, filename){
 async function getEndValuePerBossKC(TEMP_DIR, filename){
     const fullData = await getParsedDataFromFile(TEMP_DIR, filename);
 
+    // get end boss kc per boss per player
     const playerBossData = fullData.map(player => ({
         playerName: player.playerName,
         bosses: Object.fromEntries(
@@ -40,6 +42,7 @@ async function getEndValuePerBossKC(TEMP_DIR, filename){
 async function getPlayerEfficiency(TEMP_DIR, filename){
     const fullData = await getParsedDataFromFile(TEMP_DIR, filename);
 
+    // get end efficiency value per type per player
     const playerEfficiencyData = fullData.map(player => ({
         playerName: player.playerName,
         efficiency: Object.fromEntries(
@@ -65,6 +68,7 @@ export async function combineDataAndWriteToFile(filename, exportfilename, TEMP_D
         const bossItem = playerBossData.find(b => b.playerName === playerName);
         const efficiencyItem = playerEfficiencyData.find(e => e.playerName === playerName);
 
+        // add player data per skills, find where boss and efficiency data match the player name 
         return {
             playerName,
             data : {

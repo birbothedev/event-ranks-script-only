@@ -29,7 +29,7 @@ export async function writeToFile(data, fileName, TEMP_DIR){
 export async function readFromFile(TEMP_DIR, fileName){
     if (!fileName) throw new Error("readFromFile called without filename");
 
-    const directory = path.join('..', TEMP_DIR);
+    const directory = path.join('..', '..', TEMP_DIR);
     const filePath = path.join(directory, `${fileName}.json`);
     try {
         const jsonData = await fs.readFile(filePath, "utf8");
