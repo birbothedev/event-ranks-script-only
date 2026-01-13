@@ -50,8 +50,8 @@ export const tobKC = ["theatre_of_blood", "theatre_of_blood_hard_mode"];
 export const coxKC = ["chambers_of_xeric", "chambers_of_xeric_challenge_mode"];
 
 // efficiency tiers
-export const tier1eff = 0; // 0-50 kc
-export const tier2eff = 100; // 51-500 kc
-export const tier3eff = 500; // 500-1000 kc
-export const tier4eff = 1500; // 1001-2500 kc
-export const tier5eff = 3001; // 2501+ kc
+export const tier1eff = 0; // 0-100 hours
+export const tier2eff = 100; // 100-500 hours
+export const tier3eff = 500; // 500-1500 hours
+export const tier4eff = 1500; // 1500-3000 hours
+export const tier5eff = 3001; // 30001+ hours

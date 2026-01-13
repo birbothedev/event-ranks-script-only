@@ -1,4 +1,4 @@
-import { readFromFile, writeToFile } from "../json-stuff/Output.js";
+import { readFromFile, writeToFile } from "../../json-stuff/Output.js";
 
 export async function getParsedDataFromFile(TEMP_DIR, filename){
     const data = await readFromFile(TEMP_DIR, filename);

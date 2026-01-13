@@ -1,5 +1,5 @@
 import { tier1eff, tier2eff, tier3eff, tier4eff, tier5eff } from "../data-stuff/DataCategories.js";
-import { readFromFile, writeToFile } from "../json-stuff/Output.js";
+import { readFromFile, writeToFile } from "../../json-stuff/Output.js";
 
 function weighEfficiency(hours){
     if (hours >= tier5eff) return 5;

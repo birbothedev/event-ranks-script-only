@@ -1,4 +1,4 @@
-import { readFromFile } from "../json-stuff/Output.js";
+import { readFromFile } from "../../json-stuff/Output.js";
 import { combatSkills, maxEXPValue, skillingSkills, tier1EXP,
     tier2EXP, tier3EXP, tier4EXP } from "../data-stuff/DataCategories.js";
 

@@ -1,4 +1,4 @@
-import { readFromFile, writeToFile } from "../json-stuff/Output.js";
+import { readFromFile, writeToFile } from "../../json-stuff/Output.js";
 
 // multipliers
 const bossMultiplier = 2;

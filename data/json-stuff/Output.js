@@ -4,7 +4,8 @@ import path from "path";
 // const CACHE_DIR = path.resolve("../json-stuff");
 
 export async function ensureCacheFile(TEMP_DIR, fileName, initialData = []) {
-    const filePath = path.join(TEMP_DIR, `${fileName}.json`);
+    const directory = path.join('..', TEMP_DIR);
+    const filePath = path.join(directory, `${fileName}.json`);
     try {
         await fs.access(filePath);
     } catch {
@@ -15,7 +16,8 @@ export async function ensureCacheFile(TEMP_DIR, fileName, initialData = []) {
 }
 
 export async function writeToFile(data, fileName, TEMP_DIR){
-    const filePath = path.join(TEMP_DIR, `${fileName}.json`);
+    const directory = path.join('..', TEMP_DIR);
+    const filePath = path.join(directory, `${fileName}.json`);
     try {
         await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf8");
         console.log(`Data written to ${filePath}`);
@@ -24,10 +26,11 @@ export async function writeToFile(data, fileName, TEMP_DIR){
     }
 }
 
-export async function readFromFile(TEMP_DIR, filename){
-    if (!filename) throw new Error("readFromFile called without filename");
+export async function readFromFile(TEMP_DIR, fileName){
+    if (!fileName) throw new Error("readFromFile called without filename");
 
-    const filePath = path.join(TEMP_DIR, `${filename}.json`);
+    const directory = path.join('..', TEMP_DIR);
+    const filePath = path.join(directory, `${fileName}.json`);
     try {
         const jsonData = await fs.readFile(filePath, "utf8");
         const data = JSON.parse(jsonData);

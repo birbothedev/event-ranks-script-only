@@ -1,4 +1,4 @@
-import { writeToFile } from "../json-stuff/Output.js";
+import { writeToFile } from "../../json-stuff/Output.js";
 import { applyWeightsToPlayerBossCount } from "./BossWeights.js";
 import { applyWeightsToPlayerEfficiency } from "./EfficiencyWeights.js";
 import { applyWeightsToPlayerSkills } from "./SkillWeights.js";

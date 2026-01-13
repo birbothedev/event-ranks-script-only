@@ -1,7 +1,7 @@
-import { getPlayerGainsFromPeriod } from "./api-stuff/getData.js";
-import { combineDataAndWriteToFile } from "./data-stuff/DataCleaning.js";
-import { getAllPlayerWeights } from "./rank-stuff/AllWeightsToFile.js";
-import { rankAllPlayers } from "./rank-stuff/Ranking.js";
+import { getPlayerGainsFromPeriod } from "../api-stuff/getData.js";
+import { combineDataAndWriteToFile } from "./data-stuff/EventDataCleaning.js";
+import { getAllPlayerWeights } from "../event-ranking/rank-stuff/AllWeightsToFile.js";
+import { rankAllPlayers } from "../event-ranking/rank-stuff/Ranking.js";
 
 export async function competitionRunMain(compID, exportfilename, TEMP_DIR){
     await getPlayerGainsFromPeriod(compID, exportfilename, TEMP_DIR);
@@ -24,13 +24,13 @@ export async function rankingMain(filename, exportfilename, TEMP_DIR){
 // ---------------------------------------------------- //
 
 // First (creates raw_data.json)
-competitionRunMain(109642, 'raw_data', 'json-stuff');
+// competitionRunMain(109642, 'raw_data', 'outputs');
 
 // Second (cleans data and creates cleaned_data.json)
-// fileReadMain('raw_data', 'cleaned_data', 'json-stuff');
+// fileReadMain('raw_data', 'cleaned_data', 'outputs');
 
 // Third (applies weights to data and creates skill_weights.json)
-// skillweightsMain('cleaned_data', 'skill_weights', 'json-stuff');
+// skillweightsMain('cleaned_data', 'skill_weights', 'outputs');
 
 // Last (ranks players based on weights and creates ranked_players.json)
-// rankingMain('skill_weights', 'ranked_players', 'json-stuff');
+rankingMain('skill_weights', 'ranked_players', 'outputs');

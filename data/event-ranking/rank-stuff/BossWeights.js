@@ -1,6 +1,6 @@
 import { tier1bosses, tier1KC, tier2bosses, tier2KC, tier3bosses, tier3KC, tier4bosses, tier4KC, tier5bosses, tier5KC, toaKC, tobKC, coxKC} from "../data-stuff/DataCategories.js";
 
-import { readFromFile } from "../json-stuff/Output.js";
+import { readFromFile } from "../../json-stuff/Output.js";
 
 function separateBossByType(bossArray){
     const playerBosses = bossArray.map(player => {

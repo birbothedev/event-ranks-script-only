@@ -9,7 +9,6 @@ export const client = new WOMClient({
     userAgent: process.env.USER_AGENT
 });
 
-//109642 
 export async function getCompetition(compID){
     const competetion = await client.competitions.getCompetitionDetails(compID);
     return competetion;
